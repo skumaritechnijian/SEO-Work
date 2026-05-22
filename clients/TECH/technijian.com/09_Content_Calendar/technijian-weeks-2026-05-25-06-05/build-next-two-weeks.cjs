@@ -1,0 +1,330 @@
+const fs = require('fs');
+const path = require('path');
+
+const ROOT = __dirname;
+const POSTS_DIR = path.join(ROOT, 'posts');
+const IMAGES_DIR = path.join(ROOT, 'featured-images');
+
+const specs = [
+  {
+    key: '2026-05-25-persona-a',
+    date: '2026-05-25T09:00:00-07:00',
+    week: 'W16',
+    persona: 'A',
+    categoryId: 311,
+    tagIds: [4889, 340, 4558, 3735, 3469, 4992],
+    category: 'Information Technology',
+    title: 'Why OC Dental Practices Need Managed IT in 2026',
+    slug: 'oc-dental-practices-managed-it-2026',
+    focus: 'OC dental practices managed IT 2026',
+    metaTitle: 'OC Dental Practices Managed IT 2026 | Security Guide',
+    metaDescription: 'Learn why Orange County dental practices need managed IT in 2026 for HIPAA, backups, cybersecurity, uptime, and patient data protection.',
+    tags: ['Healthcare IT', 'HIPAA Compliance', 'Compliance IT support Orange County', 'Business IT Support Orange County', '24/7 support', '2026 Compliance'],
+    related: ['dental office IT support Orange County', 'HIPAA managed IT dental practices', 'patient data cybersecurity', 'managed IT for healthcare'],
+    imageFile: '2026-05-25-dental-managed-it.png',
+    external: [['HHS HIPAA Security Rule guidance', 'https://www.hhs.gov/hipaa/for-professionals/security/index.html']],
+    internal: [['Managed IT services', 'https://technijian.com/managed-it-services/'], ['HIPAA compliance support', 'https://technijian.com/hipaa-compliance/'], ['Healthcare IT', 'https://technijian.com/healthcare-it/']],
+    sections: [
+      ['Why Dental IT Risk Is Rising in Orange County', 'Dental practices now depend on imaging systems, practice management software, VoIP phones, patient portals, payment tools, and cloud backups. When any part of that stack fails, appointments slow down and patient trust takes the hit.'],
+      ['HIPAA Is an IT Operating Standard', 'HIPAA readiness is not only paperwork. It depends on access controls, audit logs, encryption, backup procedures, staff offboarding, and documented incident response. Managed IT gives dental practices a repeatable way to maintain those controls.'],
+      ['Downtime Has a Direct Revenue Cost', 'A network outage can stop X-rays, billing, scheduling, and chart access at the same time. OC dental practices need monitoring, tested backups, and helpdesk coverage that keeps small technical issues from becoming full-day closures.'],
+      ['What to Look For in a Managed IT Partner', 'The right partner understands healthcare workflows, maps every critical system, documents recovery procedures, and reviews security posture quarterly instead of waiting for emergencies.']
+    ]
+  },
+  {
+    key: '2026-05-26-persona-b',
+    date: '2026-05-26T09:00:00-07:00',
+    week: 'W16',
+    persona: 'B',
+    categoryId: 578,
+    tagIds: [4735, 4501, 3240, 3236, 522, 751],
+    category: 'custom software development',
+    title: 'CI/CD Pipeline Strategy for Startups Building Software in 2026',
+    slug: 'ci-cd-pipeline-startups-2026',
+    focus: 'CI/CD pipeline startups 2026',
+    metaTitle: 'CI/CD Pipeline Strategy for Startups in 2026',
+    metaDescription: 'A practical 2026 CI/CD pipeline strategy for startups that need faster releases, cleaner QA, secure deployments, and less technical debt.',
+    tags: ['startup development', 'AI Software Development', 'Cloud Software Development', 'Secure Software Development', 'DevOps', 'CI/CD Pipelines'],
+    related: ['startup CI/CD pipeline', 'DevOps for SaaS startups', 'secure software deployment', 'automated QA pipeline'],
+    imageFile: '2026-05-26-cicd-startups.png',
+    external: [['OWASP SAMM', 'https://owaspsamm.org/']],
+    internal: [['Custom software development', 'https://technijian.com/custom-software-development/'], ['AI-native software development', 'https://technijian.com/ai-native-software-development/'], ['DevOps consulting', 'https://technijian.com/devops-consulting/']],
+    sections: [
+      ['Why CI/CD Becomes a Startup Multiplier', 'Startups do not win by moving recklessly. They win by shipping useful changes quickly without breaking trust. CI/CD gives founders a release system that is faster, more measurable, and less dependent on heroic manual work.'],
+      ['The Minimum Viable Pipeline', 'A practical pipeline starts with source control, branch rules, automated tests, build checks, vulnerability scanning, environment promotion, and rollback procedures. This foundation prevents small shortcuts from becoming expensive technical debt.'],
+      ['Security Belongs in the Pipeline', 'Secrets scanning, dependency checks, container scanning, and approval gates should not be bolted on after launch. They belong inside the release workflow from the first commercial build.'],
+      ['When to Upgrade the Pipeline', 'Once a product has paying users, multiple developers, or customer data, the pipeline must mature. That means stronger staging environments, observability, deployment logs, and incident rollback playbooks.']
+    ]
+  },
+  {
+    key: '2026-05-27-persona-c',
+    date: '2026-05-27T09:00:00-07:00',
+    week: 'W16',
+    persona: 'C',
+    categoryId: 4616,
+    tagIds: [4900, 4895, 4573, 4133, 4375, 4839],
+    category: 'Digital Marketing',
+    title: 'Page Speed Optimization for OC Restaurants: Why Faster Sites Win More Diners',
+    slug: 'page-speed-optimization-oc-restaurants-2026',
+    focus: 'page speed OC restaurants 2026',
+    metaTitle: 'Page Speed Optimization for OC Restaurants 2026',
+    metaDescription: 'Learn how OC restaurants can improve page speed, Core Web Vitals, mobile booking flow, local SEO visibility, and conversion in 2026.',
+    tags: ['core web vitals 2026', 'fix core web vitals shopify', 'Technical SEO', 'technical SEO Orange County', 'SEO audit', 'AI SEO services Orange County'],
+    related: ['restaurant website speed optimization', 'OC restaurant SEO', 'Core Web Vitals restaurants', 'mobile booking conversion'],
+    imageFile: '2026-05-27-page-speed-restaurants.png',
+    external: [['PageSpeed Insights', 'https://pagespeed.web.dev/'], ['Google Core Web Vitals', 'https://web.dev/vitals/']],
+    internal: [['SEO services', 'https://technijian.com/seo-services/'], ['Technical SEO services', 'https://technijian.com/technical-seo/'], ['Website maintenance', 'https://technijian.com/website-maintenance/']],
+    sections: [
+      ['Restaurant Search Happens on Mobile', 'Most restaurant discovery starts on a phone. If the menu, reservation button, map, or ordering page loads slowly, the guest often backs out before the restaurant ever knows a lead existed.'],
+      ['Speed Affects Both SEO and Conversion', 'Page speed supports crawlability, user engagement, and local conversion. For OC restaurants, the business impact is simple: faster pages make it easier for guests to view menus, check hours, and reserve a table.'],
+      ['The Biggest Speed Problems', 'Large hero photos, uncompressed menu PDFs, overloaded plugins, render-blocking scripts, and slow hosting are common culprits. Fixing them usually requires both marketing and technical SEO judgment.'],
+      ['A Practical Restaurant Speed Plan', 'Start with mobile templates, compress images, replace PDF-first menus with crawlable pages, clean up scripts, cache aggressively, and test booking flows after every change.']
+    ]
+  },
+  {
+    key: '2026-05-28-persona-d',
+    date: '2026-05-28T09:00:00-07:00',
+    week: 'W16',
+    persona: 'D',
+    categoryId: 4541,
+    tagIds: [4747, 1932, 2710, 1464, 4723, 4283],
+    category: 'AI',
+    title: 'AI ROI Metrics That Actually Matter for Orange County Businesses',
+    slug: 'ai-roi-metrics-orange-county-businesses-2026',
+    focus: 'AI ROI metrics Orange County businesses 2026',
+    metaTitle: 'AI ROI Metrics for Orange County Businesses 2026',
+    metaDescription: 'Track the AI ROI metrics that matter in 2026: time saved, error reduction, adoption, revenue impact, risk control, and workflow automation.',
+    tags: ['AI adoption', 'AI Automation', 'AI automation for businesses', 'enterprise AI', 'enterprise AI adoption', 'AI workflow automation'],
+    related: ['AI ROI metrics', 'enterprise AI adoption 2026', 'AI automation ROI', 'AI governance metrics'],
+    imageFile: '2026-05-28-ai-roi-metrics.png',
+    external: [['NIST AI Risk Management Framework', 'https://www.nist.gov/itl/ai-risk-management-framework']],
+    internal: [['AI consulting services', 'https://technijian.com/ai-consulting/'], ['AI automation services', 'https://technijian.com/ai-automation/'], ['Cybersecurity services', 'https://technijian.com/cybersecurity-services/']],
+    sections: [
+      ['Why AI ROI Needs Better Measurement', 'AI projects fail when teams measure novelty instead of business impact. OC executives need metrics that connect automation to time savings, error reduction, revenue acceleration, and operational risk.'],
+      ['Start With Workflow Baselines', 'Before deploying AI, document the current workflow: time per task, handoff points, rework, cost per transaction, and compliance exposure. Without a baseline, ROI becomes guesswork.'],
+      ['Measure Adoption and Accuracy Together', 'A tool that employees ignore has no ROI. A tool that employees use but cannot trust creates risk. Track adoption, accuracy, exception rates, and escalation patterns together.'],
+      ['Connect AI to Risk Controls', 'The best AI programs measure permissions, data exposure, auditability, and human approval points. These controls protect the ROI by preventing expensive mistakes.']
+    ]
+  },
+  {
+    key: '2026-05-29-friday-seo-news',
+    date: '2026-05-29T09:00:00-07:00',
+    week: 'W16',
+    persona: 'C',
+    categoryId: 4616,
+    tagIds: [4381, 4375, 4839, 4133, 4573, 4707],
+    category: 'Digital Marketing',
+    title: 'Google Local Services Ads in OC: What Local Businesses Should Watch in 2026',
+    slug: 'google-local-services-ads-orange-county-2026',
+    focus: 'Google LSA OC 2026',
+    metaTitle: 'Google Local Services Ads OC 2026 | Local SEO Guide',
+    metaDescription: 'What Orange County local businesses should know about Google Local Services Ads in 2026, including screening, trust signals, SEO, and lead quality.',
+    tags: ['affordable SEO', 'SEO audit', 'AI SEO services Orange County', 'technical SEO Orange County', 'Technical SEO', 'Schema Markup for Local SEO'],
+    related: ['Google Local Services Ads OC', 'Orange County local SEO', 'local services ads screening', 'local lead quality'],
+    imageFile: '2026-05-29-google-lsa-oc.png',
+    external: [['Google Local Services Ads qualification', 'https://support.google.com/localservices/answer/6230381?hl=en'], ['Google local ads overview', 'https://support.google.com/adwords/answer/3246303?hl=en']],
+    internal: [['Local SEO services', 'https://technijian.com/local-seo/'], ['SEO services', 'https://technijian.com/seo-services/'], ['Digital marketing services', 'https://technijian.com/digital-marketing/']],
+    sections: [
+      ['Why LSAs Matter for OC Service Businesses', 'Local Services Ads sit close to high-intent searches. For businesses competing in dense OC markets, that placement can influence lead flow before a prospect ever scrolls to organic results.'],
+      ['Screening and Trust Signals Are the Story', 'Google requires different screening steps depending on service category and location. That means local businesses need operational readiness, accurate business profiles, strong reviews, and fast response handling.'],
+      ['LSAs Do Not Replace SEO', 'Paid local visibility works best when the website, Google Business Profile, reviews, service pages, and structured data all support the same trust story. LSAs can generate leads, but SEO improves the quality of the entire local footprint.'],
+      ['What to Watch in 2026', 'Expect more competition, higher expectations for verification, and tighter connection between ads, reviews, landing pages, and conversion tracking. The best local marketers will manage the whole system, not just bids.']
+    ]
+  },
+  {
+    key: '2026-06-01-persona-a',
+    date: '2026-06-01T09:00:00-07:00',
+    week: 'W17',
+    persona: 'A',
+    categoryId: 326,
+    tagIds: [4013, 2188, 1953, 3236, 4711, 4992],
+    category: 'Cyber Security',
+    title: 'EDR for Orange County Offices: How Endpoint Detection Protects Modern Teams',
+    slug: 'edr-protecting-orange-county-offices-2026',
+    focus: 'EDR protecting OC offices 2026',
+    metaTitle: 'EDR for Orange County Offices 2026 | Endpoint Security',
+    metaDescription: 'Learn how EDR protects Orange County offices in 2026 with endpoint detection, response, ransomware containment, monitoring, and compliance support.',
+    tags: ['Advanced Threat Detection', 'Advanced threat protection', 'Security Audit', 'Secure Software Development', 'Cybersecurity for Enterprises', '2026 Compliance'],
+    related: ['EDR Orange County offices', 'endpoint detection response', 'ransomware endpoint protection', 'managed cybersecurity OC'],
+    imageFile: '2026-06-01-edr-oc-offices.png',
+    external: [['CISA ransomware guidance', 'https://www.cisa.gov/stopransomware']],
+    internal: [['Cybersecurity services', 'https://technijian.com/cybersecurity-services/'], ['Managed IT services', 'https://technijian.com/managed-it-services/'], ['Endpoint security', 'https://technijian.com/endpoint-security/']],
+    sections: [
+      ['Why Endpoint Security Has Changed', 'Laptops, desktops, and remote devices are now the front line of business security. Antivirus alone cannot keep up with credential theft, ransomware staging, and hands-on-keyboard attacks.'],
+      ['What EDR Adds', 'Endpoint Detection and Response monitors behavior, flags suspicious activity, records attack timelines, and gives security teams a way to isolate devices before an incident spreads.'],
+      ['Why OC Offices Need It', 'Professional services, healthcare, finance, construction, and real estate firms all hold data that attackers can monetize. EDR gives these offices a stronger detection layer without requiring an internal security team.'],
+      ['How to Roll It Out', 'Start with critical users, servers, and remote devices. Tune alerts, define escalation rules, test isolation procedures, and review findings during recurring security meetings.']
+    ]
+  },
+  {
+    key: '2026-06-02-persona-b',
+    date: '2026-06-02T09:00:00-07:00',
+    week: 'W17',
+    persona: 'B',
+    categoryId: 578,
+    tagIds: [4993, 4997, 2644, 3236, 579, 5027],
+    category: 'custom software development',
+    title: 'Why Offshore Development Turns Into Spaghetti Code and How to Avoid It',
+    slug: 'offshore-development-spaghetti-code-avoid-2026',
+    focus: 'offshore development spaghetti code 2026',
+    metaTitle: 'Offshore Development Spaghetti Code: Avoid It in 2026',
+    metaDescription: 'Learn why offshore development can turn into spaghetti code and how founders can protect architecture, IP, quality, documentation, and delivery.',
+    tags: ['Technical Debt', 'Technical Debt Assessment', 'Technical Debt Reduction', 'Secure Software Development', 'custom software development', 'Orange County Software Development'],
+    related: ['offshore development spaghetti code', 'software technical debt', 'hybrid software development model', 'code quality outsourcing'],
+    imageFile: '2026-06-02-offshore-spaghetti-code.png',
+    external: [['OWASP secure coding practices', 'https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/']],
+    internal: [['Custom software development', 'https://technijian.com/custom-software-development/'], ['Startup software development', 'https://technijian.com/startup-software-development/'], ['AI-native software development', 'https://technijian.com/ai-native-software-development/']],
+    sections: [
+      ['The Real Problem Is Not Geography', 'Offshore development fails when incentives, architecture ownership, documentation, QA, and communication are weak. The location is less important than the delivery system.'],
+      ['How Spaghetti Code Happens', 'Teams rush features without a shared architecture, skip tests, avoid refactoring, and leave business logic scattered across the codebase. The first release may look fine, but every later change gets slower.'],
+      ['Protecting Architecture and IP', 'Founders need contract-first requirements, repository control, code review, documentation, secure credentials, and local technical accountability. These controls protect both the product and the company.'],
+      ['A Better Hybrid Model', 'Use senior local architecture and product leadership with distributed engineering capacity. That model keeps speed while reducing the risk of unmanaged codebases.']
+    ]
+  },
+  {
+    key: '2026-06-03-persona-c',
+    date: '2026-06-03T09:00:00-07:00',
+    week: 'W17',
+    persona: 'C',
+    categoryId: 4616,
+    tagIds: [4375, 4134, 4573, 4133, 4381, 4839],
+    category: 'Digital Marketing',
+    title: 'Link Building for OC Businesses: What Still Works in 2026',
+    slug: 'link-building-oc-businesses-2026',
+    focus: 'link building OC businesses 2026',
+    metaTitle: 'Link Building for OC Businesses in 2026',
+    metaDescription: 'A practical 2026 link building guide for OC businesses focused on local authority, partnerships, PR, content assets, and safe SEO practices.',
+    tags: ['SEO audit', 'SEO audit services', 'Technical SEO', 'technical SEO Orange County', 'affordable SEO', 'AI SEO services Orange County'],
+    related: ['link building OC businesses', 'Orange County SEO authority', 'local backlinks', 'digital PR for local businesses'],
+    imageFile: '2026-06-03-link-building-oc.png',
+    external: [['Google spam policies', 'https://developers.google.com/search/docs/essentials/spam-policies']],
+    internal: [['SEO services', 'https://technijian.com/seo-services/'], ['Content marketing', 'https://technijian.com/content-marketing/'], ['Digital marketing services', 'https://technijian.com/digital-marketing/']],
+    sections: [
+      ['Why Links Still Matter', 'Links still help search engines understand trust, relevance, and authority. For OC businesses, the best links usually come from real local relationships, useful content, and credible mentions.'],
+      ['What No Longer Works', 'Bulk directory submissions, paid link networks, irrelevant guest posts, and over-optimized anchor text create risk. The goal is not more links at any cost. The goal is better proof of authority.'],
+      ['Local Link Opportunities', 'Chambers, associations, sponsorships, partner pages, vendor directories, local PR, universities, and niche publications can all produce useful local authority when the relationship is real.'],
+      ['Build Assets Worth Linking To', 'Checklists, local data, calculators, guides, and original research give partners a reason to link naturally. Service pages rarely earn links by themselves.']
+    ]
+  },
+  {
+    key: '2026-06-04-persona-d',
+    date: '2026-06-04T09:00:00-07:00',
+    week: 'W17',
+    persona: 'D',
+    categoryId: 4541,
+    tagIds: [4634, 4586, 4723, 1464, 4673, 4747],
+    category: 'AI',
+    title: 'AI Governance Framework for Mid-Market Businesses in 2026',
+    slug: 'ai-governance-framework-mid-market-businesses-2026',
+    focus: 'AI governance framework 2026',
+    metaTitle: 'AI Governance Framework for Businesses in 2026',
+    metaDescription: 'Build an AI governance framework for 2026 with policy, data controls, tool approval, risk review, employee training, and audit documentation.',
+    tags: ['AI strategy for enterprises', 'Enterprise AI adoption 2026', 'enterprise AI adoption', 'enterprise AI', 'ChatGPT Enterprise Security', 'AI adoption'],
+    related: ['AI governance framework 2026', 'enterprise AI policy', 'AI risk management', 'secure AI adoption'],
+    imageFile: '2026-06-04-ai-governance.png',
+    external: [['NIST AI Risk Management Framework', 'https://www.nist.gov/itl/ai-risk-management-framework']],
+    internal: [['AI consulting services', 'https://technijian.com/ai-consulting/'], ['Cybersecurity services', 'https://technijian.com/cybersecurity-services/'], ['Microsoft Copilot consulting', 'https://technijian.com/microsoft-copilot-consulting/']],
+    sections: [
+      ['Why Governance Comes Before Scale', 'AI adoption is moving faster than policy in many companies. Without governance, employees choose tools independently, sensitive data moves into unclear systems, and leaders lose visibility.'],
+      ['The Core Governance Components', 'A workable framework defines approved tools, data rules, user permissions, review workflows, vendor evaluation, documentation, and incident response. It should be simple enough for employees to follow.'],
+      ['Data Boundaries Matter Most', 'Businesses need clear rules for customer data, employee data, financial records, source code, contracts, and regulated information. AI policy should describe what can and cannot leave controlled environments.'],
+      ['Make Governance Operational', 'Governance should appear in onboarding, procurement, security reviews, and quarterly executive reporting. If it lives only in a PDF, it will not shape behavior.']
+    ]
+  },
+  {
+    key: '2026-06-05-friday-seo-news',
+    date: '2026-06-05T09:00:00-07:00',
+    week: 'W17',
+    persona: 'C',
+    categoryId: 4616,
+    tagIds: [4867, 4575, 4707, 4664, 4573, 4133],
+    category: 'Digital Marketing',
+    title: 'Schema.org in 2026: What OC Businesses Need for AI Search and Rich Results',
+    slug: 'schema-org-2026-orange-county-ai-search-rich-results',
+    focus: 'Schema.org 2026 OC businesses',
+    metaTitle: 'Schema.org 2026 for OC Businesses | AI Search SEO',
+    metaDescription: 'How OC businesses should use Schema.org and structured data in 2026 for Google rich results, AI search clarity, local SEO, and content trust.',
+    tags: ['schema markup', 'Schema markup for AI', 'Schema Markup for Local SEO', 'Schema Markup SEO', 'Technical SEO', 'technical SEO Orange County'],
+    related: ['Schema.org 2026', 'structured data OC businesses', 'AI search schema', 'local business schema markup'],
+    imageFile: '2026-06-05-schema-org-2026.png',
+    external: [['Google structured data introduction', 'https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data'], ['Schema.org LocalBusiness', 'https://schema.org/LocalBusiness']],
+    internal: [['Technical SEO services', 'https://technijian.com/technical-seo/'], ['SEO services', 'https://technijian.com/seo-services/'], ['Answer engine optimization', 'https://technijian.com/answer-engine-optimization/']],
+    sections: [
+      ['Why Schema Still Matters in 2026', 'Structured data helps search systems understand entities, offers, articles, organizations, local businesses, FAQs, products, and reviews. In AI search environments, clarity matters even more.'],
+      ['Use Google Guidance for Search Eligibility', 'Schema.org is the vocabulary, but Google Search Central defines which structured data types can qualify for Google rich result features. OC businesses need both accuracy and eligibility.'],
+      ['Local Business Markup Needs Maintenance', 'LocalBusiness data should reflect current locations, service areas, phone numbers, opening hours, sameAs profiles, and business identifiers. Stale schema creates confusion instead of trust.'],
+      ['Structured Data Is Not a Shortcut', 'Schema supports content. It does not replace crawlable pages, helpful copy, strong internal links, reviews, and technical SEO. The best results come from aligning all of those signals.']
+    ]
+  }
+];
+
+function ensureDir(dir) { fs.mkdirSync(dir, { recursive: true }); }
+function escapeHtml(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+function excerptFrom(text) { return text.split(/\s+/).slice(0, 150).join(' ') + '.'; }
+
+function buildBody(post) {
+  const parts = [
+    '<!-- SEO Brief',
+    `Focus keyphrase: ${post.focus}`,
+    `Related keyphrases: ${post.related.join(', ')}`,
+    `Meta title: ${post.metaTitle}`,
+    `Meta description: ${post.metaDescription}`,
+    '-->',
+    '',
+    '<!-- wp:heading {"level":1} -->',
+    `<h1 class="wp-block-heading">${escapeHtml(post.title)}</h1>`,
+    '<!-- /wp:heading -->'
+  ];
+
+  for (const [heading, body] of post.sections) {
+    parts.push('', '<!-- wp:heading -->', `<h2 class="wp-block-heading">${escapeHtml(heading)}</h2>`, '<!-- /wp:heading -->');
+    parts.push('', '<!-- wp:paragraph -->', `<p>${escapeHtml(body)}</p>`, '<!-- /wp:paragraph -->');
+  }
+
+  const internalSentence = post.internal.map(([text, url]) => `<a href="${url}">${escapeHtml(text)}</a>`).join(', ');
+  const externalSentence = post.external.map(([text, url]) => `<a href="${url}" rel="noopener" target="_blank">${escapeHtml(text)}</a>`).join(' and ');
+  parts.push('', '<!-- wp:heading -->', '<h2 class="wp-block-heading">How to Put This Into Action</h2>', '<!-- /wp:heading -->');
+  parts.push('', '<!-- wp:paragraph -->', `<p>For implementation support, connect this strategy with Technijian resources for ${internalSentence}. These service pages help turn the article's guidance into a practical roadmap instead of a one-time checklist.</p>`, '<!-- /wp:paragraph -->');
+  parts.push('', '<!-- wp:paragraph -->', `<p>For external context, review ${externalSentence}. These references help teams validate the standards, search guidance, and risk controls behind the recommendations.</p>`, '<!-- /wp:paragraph -->');
+  parts.push('', '<!-- wp:heading -->', '<h2 class="wp-block-heading">Next Step</h2>', '<!-- /wp:heading -->');
+  parts.push('', '<!-- wp:paragraph -->', `<p>If your team is planning this work in ${post.date.slice(0, 4)}, use the topic as a decision point: document the current state, define the business risk, and assign an owner for the next technical review. Technijian can help translate that review into a scoped plan, whether the need is IT operations, software delivery, SEO, or AI governance.</p>`, '<!-- /wp:paragraph -->');
+
+  return parts.join('\n');
+}
+
+function build() {
+  ensureDir(POSTS_DIR);
+  ensureDir(IMAGES_DIR);
+  const posts = specs.map((post) => {
+    const contentFile = path.join(POSTS_DIR, `${post.slug}.html`);
+    const body = buildBody(post);
+    fs.writeFileSync(contentFile, body, 'utf8');
+    const plain = post.sections.map((section) => section.join(' ')).join(' ');
+    return {
+      ...post,
+      contentFile,
+      imageFile: path.join(IMAGES_DIR, post.imageFile),
+      excerpt: excerptFrom(plain),
+      yoast: {
+        focusKeyphrase: post.focus,
+        relatedKeyphrases: post.related.slice(1).map((keyword) => ({ keyword, score: 0 })),
+        metaTitle: post.metaTitle,
+        metaDescription: post.metaDescription,
+        metaKeywords: [post.focus, ...post.related].join(', ')
+      }
+    };
+  });
+
+  fs.writeFileSync(path.join(ROOT, 'next-two-weeks-posts.json'), `${JSON.stringify(posts, null, 2)}\n`, 'utf8');
+  fs.writeFileSync(path.join(ROOT, 'NEXT_TWO_WEEKS_SCHEDULE.md'), [
+    '# Technijian Blog Schedule: May 25-June 5, 2026',
+    '',
+    '| Date | Week | Persona | Title | Focus keyphrase |',
+    '|---|---|---|---|---|',
+    ...posts.map((p) => `| ${p.date} | ${p.week} | ${p.persona} | ${p.title} | ${p.focus} |`),
+    ''
+  ].join('\n'), 'utf8');
+  console.log(`Built ${posts.length} posts.`);
+}
+
+build();
