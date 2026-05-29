@@ -151,3 +151,17 @@ The full device-management enrollment path is blocked by the Microsoft tenant er
 `There was an error with your Mobile Device Management (MDM) user license.`
 
 Until the Microsoft 365/Intune license or MDM enrollment scope is fixed by an administrator, local Windows settings cannot complete full device registration.
+
+## May 29 Outlook Mail Open Request
+
+User requested opening the email account:
+
+`skumari@technijian.com`
+
+Local action taken:
+
+- Opened Outlook on the web: `https://outlook.office.com/mail/`
+
+User must complete password and MFA manually.
+
+If Microsoft prompts for device management again, choose app-only sign-in where available. Full device management remains blocked until the MDM license issue is fixed by the Microsoft 365/Intune administrator.
