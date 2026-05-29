@@ -90,3 +90,39 @@ When Microsoft prompts for device management, choose:
 If that option is not shown, or if the tenant forces device management, then a Microsoft 365 administrator must assign an Intune/MDM-capable license to `skumari@technijian.com` or remove this user from forced MDM enrollment scope.
 
 This cannot be fixed only from local Windows settings because the error is returned by Microsoft cloud enrollment policy/licensing.
+
+## May 29 Second Follow-Up
+
+The same error appeared again.
+
+Latest troubleshooting details from the Microsoft dialog:
+
+- Error Code: `-2145910760`
+- Request Id: `7b94b2c8-4c11-4d7c-87db-88c97d585100`
+- Correlation Id: `3dfb2021-4713-4d13-adf4-78cc0e5fc9f0`
+- Timestamp: `2026-05-29T15:07:43.462Z`
+- Message: `There was an error with your Mobile Device Management (MDM) user license.`
+
+Local `dsregcmd /status` was checked again and still showed no local join:
+
+- `AzureAdJoined : NO`
+- `EnterpriseJoined : NO`
+- `DomainJoined : NO`
+- `WorkplaceJoined : NO`
+- `AzureAdPrt : NO`
+
+The local setting page opened again:
+
+`Settings > Accounts > Email & accounts`
+
+Conclusion remains unchanged: Windows is not blocking the account locally. Microsoft cloud enrollment is rejecting the sign-in because the user does not have the required MDM/Intune license or is in a forced MDM scope without an eligible license.
+
+Required admin fix:
+
+1. Go to Microsoft 365 admin center or Entra admin center.
+2. Open user `skumari@technijian.com`.
+3. Assign an Intune/MDM-capable license, such as Microsoft Intune Plan 1, Microsoft 365 Business Premium, or another plan that includes Intune.
+4. Confirm the user is allowed by MDM user scope in Entra ID Mobility (MDM and WIP).
+5. Retry Windows work/school account setup.
+
+If device management is not required, use app-only sign-in and avoid the device enrollment path.
