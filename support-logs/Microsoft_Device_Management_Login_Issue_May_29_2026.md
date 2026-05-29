@@ -126,3 +126,28 @@ Required admin fix:
 5. Retry Windows work/school account setup.
 
 If device management is not required, use app-only sign-in and avoid the device enrollment path.
+
+## May 29 Login Request
+
+User requested login with:
+
+`skumari@technijian.com`
+
+Local action taken:
+
+- Opened `Settings > Accounts > Email & accounts`
+
+Recommended path:
+
+1. Click `Add a work or school account`.
+2. Sign in with `skumari@technijian.com`.
+3. Complete password and MFA manually.
+4. If Microsoft asks to manage the device, choose `No, sign in to this app only`.
+
+Reason:
+
+The full device-management enrollment path is blocked by the Microsoft tenant error:
+
+`There was an error with your Mobile Device Management (MDM) user license.`
+
+Until the Microsoft 365/Intune license or MDM enrollment scope is fixed by an administrator, local Windows settings cannot complete full device registration.
