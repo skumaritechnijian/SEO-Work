@@ -56,3 +56,37 @@ Opened Windows settings:
 
 `Settings > Accounts > Access work or school`
 
+## May 29 Follow-Up
+
+The same Microsoft dialog appeared again for `skumari@technijian.com`:
+
+> Device management could not be enabled
+
+`dsregcmd /status` was checked again and still showed:
+
+- `AzureAdJoined : NO`
+- `EnterpriseJoined : NO`
+- `DomainJoined : NO`
+- `WorkplaceJoined : NO`
+- `AzureAdPrt : NO`
+
+This confirms there is still no local Azure AD join or Workplace Join state to remove. The PC is not stuck in a partial local enrollment.
+
+Additional local action taken:
+
+- Opened `Settings > Accounts > Email & accounts`
+- Opened `Settings > Accounts > Access work or school`
+
+## Required User/Admin Action
+
+If the goal is only to sign in to Microsoft apps, add the account from:
+
+`Settings > Accounts > Email & accounts > Add a work or school account`
+
+When Microsoft prompts for device management, choose:
+
+`No, sign in to this app only`
+
+If that option is not shown, or if the tenant forces device management, then a Microsoft 365 administrator must assign an Intune/MDM-capable license to `skumari@technijian.com` or remove this user from forced MDM enrollment scope.
+
+This cannot be fixed only from local Windows settings because the error is returned by Microsoft cloud enrollment policy/licensing.
