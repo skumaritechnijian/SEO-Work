@@ -154,3 +154,39 @@ Final WordPress update output showed higher counts because the updater counted a
 An agent file was also added for future repeatable execution:
 
 - `.claude/agents/technijian-longform-seo-publisher.md`
+
+## June 1, 2026 Update - June 1-5 Long-Form And FAQ Pass
+
+The user reported that the scheduled blogs from June 1 to June 5, 2026 were too short and requested they be made longer like the previous May 25-29 posts, including FAQs.
+
+Five June 1-5 posts were expanded into AI-assisted unique long-form drafts and updated in the scheduled WordPress posts while preserving their scheduled/future status, dates, slugs, categories, tags, featured images, excerpts, and Yoast fields.
+
+Updated posts:
+
+- June 1, 2026: `edr-protecting-orange-county-offices-2026`
+- June 2, 2026: `offshore-development-spaghetti-code-avoid-2026`
+- June 3, 2026: `link-building-oc-businesses-2026`
+- June 4, 2026: `ai-governance-framework-mid-market-businesses-2026`
+- June 5, 2026: `schema-org-2026-orange-county-ai-search-rich-results`
+
+Each post now includes:
+
+- 2,000+ visible body words
+- Five FAQs
+- FAQPage JSON-LD schema
+- Natural internal links
+- Existing external reference links
+- Existing Yoast focus keyphrase, SEO title, meta description, related keyphrases, and meta keywords
+
+Verification files saved:
+
+- `clients/TECH/technijian.com/Website Blogs/Week_16-17_May_25-Jun_05_2026_Blogs/june1-5-longform-faq-update.json`
+- `clients/TECH/technijian.com/Website Blogs/Week_16-17_May_25-Jun_05_2026_Blogs/june1-5-longform-wordpress-update.json`
+
+Final repo word counts:
+
+- June 1: 2,147 words, 5 FAQs
+- June 2: 2,156 words, 5 FAQs
+- June 3: 2,034 words, 5 FAQs
+- June 4: 2,062 words, 5 FAQs
+- June 5: 2,000 words, 5 FAQs
