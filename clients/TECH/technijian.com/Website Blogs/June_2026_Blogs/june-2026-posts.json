@@ -1,0 +1,1474 @@
+[
+  {
+    "key": "2026-06-08-persona-a",
+    "date": "2026-06-08T09:00:00-07:00",
+    "week": "W18",
+    "phase": "Conversion optimization",
+    "persona": "A",
+    "category": "cyber",
+    "title": "MFA for Patient Data: How OC Healthcare Practices Protect Access in 2026",
+    "slug": "mfa-patient-data-oc-healthcare-2026",
+    "focus": "MFA patient data OC healthcare 2026",
+    "metaTitle": "MFA for Patient Data OC Healthcare 2026 | Security Guide",
+    "metaDescription": "Learn how OC healthcare practices can use MFA in 2026 to protect patient data, reduce credential risk, support HIPAA readiness, and improve access security.",
+    "related": [
+      "MFA healthcare Orange County",
+      "patient data access security",
+      "HIPAA MFA controls",
+      "healthcare identity security"
+    ],
+    "audience": "Orange County healthcare owners, office managers, and compliance-minded practice leaders",
+    "promise": "protect patient data by reducing the risk of stolen passwords and unmanaged access",
+    "pain": "shared logins, weak passwords, exposed email accounts, and remote access that relies on a single credential",
+    "action": "roll out multi-factor authentication for email, remote access, cloud apps, admin accounts, and systems that touch patient data",
+    "internal": [
+      [
+        "Cybersecurity services",
+        "https://technijian.com/cybersecurity-services/"
+      ],
+      [
+        "HIPAA compliance support",
+        "https://technijian.com/hipaa-compliance/"
+      ],
+      [
+        "Managed IT services",
+        "https://technijian.com/managed-it-services/"
+      ]
+    ],
+    "external": [
+      [
+        "HHS HIPAA Security Rule guidance",
+        "https://www.hhs.gov/hipaa/for-professionals/security/index.html"
+      ],
+      [
+        "CISA multi-factor authentication guidance",
+        "https://www.cisa.gov/resources-tools/resources/multi-factor-authentication-mfa"
+      ]
+    ],
+    "categoryId": 326,
+    "categoryName": "Cyber Security",
+    "tagIds": [
+      4013,
+      2188,
+      1953,
+      3236,
+      4711,
+      4992
+    ],
+    "tags": [
+      "Advanced Threat Detection",
+      "Advanced threat protection",
+      "Security Audit",
+      "Secure Software Development",
+      "Cybersecurity for Enterprises",
+      "2026 Compliance"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\mfa-patient-data-oc-healthcare-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\mfa-patient-data-oc-healthcare-2026.html",
+    "excerpt": "MFA for Patient Data: How OC Healthcare Practices Protect Access in 2026 gives Orange County healthcare owners, office managers, and compliance-minded practice leaders a practical 2026 guide to protect patient data by reducing the risk of stolen passwords and unmanaged access. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects MFA patient data OC healthcare 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "MFA patient data OC healthcare 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "patient data access security",
+          "score": 0
+        },
+        {
+          "keyword": "HIPAA MFA controls",
+          "score": 0
+        },
+        {
+          "keyword": "healthcare identity security",
+          "score": 0
+        }
+      ],
+      "metaTitle": "MFA for Patient Data OC Healthcare 2026 | Security Guide",
+      "metaDescription": "Learn how OC healthcare practices can use MFA in 2026 to protect patient data, reduce credential risk, support HIPAA readiness, and improve access security.",
+      "metaKeywords": "MFA patient data OC healthcare 2026, MFA healthcare Orange County, patient data access security, HIPAA MFA controls, healthcare identity security"
+    }
+  },
+  {
+    "key": "2026-06-09-persona-b",
+    "date": "2026-06-09T09:00:00-07:00",
+    "week": "W18",
+    "phase": "Conversion optimization",
+    "persona": "B",
+    "category": "software",
+    "title": "Azure vs AWS for SoCal Enterprises: How to Choose a Cloud Platform in 2026",
+    "slug": "azure-vs-aws-socal-enterprise-2026",
+    "focus": "Azure vs AWS SoCal enterprise 2026",
+    "metaTitle": "Azure vs AWS for SoCal Enterprises in 2026",
+    "metaDescription": "Compare Azure vs AWS for SoCal enterprises in 2026 across architecture, security, integrations, cost, compliance, data, and software delivery needs.",
+    "related": [
+      "Azure vs AWS enterprise",
+      "SoCal cloud architecture",
+      "cloud platform selection 2026",
+      "enterprise cloud development"
+    ],
+    "audience": "founders, CTOs, IT leaders, and operations teams evaluating cloud architecture",
+    "promise": "choose a cloud platform based on business fit rather than vendor momentum",
+    "pain": "unclear ownership, surprise costs, integration friction, and platform decisions that are hard to unwind later",
+    "action": "score Azure and AWS against identity, data, workload, compliance, skills, integration, and long-term product roadmap needs",
+    "internal": [
+      [
+        "Custom software development",
+        "https://technijian.com/custom-software-development/"
+      ],
+      [
+        "Cloud software development",
+        "https://technijian.com/cloud-software-development/"
+      ],
+      [
+        "DevOps consulting",
+        "https://technijian.com/devops-consulting/"
+      ]
+    ],
+    "external": [
+      [
+        "AWS Well-Architected Framework",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      [
+        "Azure Well-Architected Framework",
+        "https://learn.microsoft.com/en-us/azure/well-architected/"
+      ]
+    ],
+    "categoryId": 578,
+    "categoryName": "custom software development",
+    "tagIds": [
+      4993,
+      4997,
+      2644,
+      3236,
+      579,
+      5027
+    ],
+    "tags": [
+      "Technical Debt",
+      "Technical Debt Assessment",
+      "Technical Debt Reduction",
+      "Secure Software Development",
+      "custom software development",
+      "Orange County Software Development"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\azure-vs-aws-socal-enterprise-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\azure-vs-aws-socal-enterprise-2026.html",
+    "excerpt": "Azure vs AWS for SoCal Enterprises: How to Choose a Cloud Platform in 2026 gives founders, CTOs, IT leaders, and operations teams evaluating cloud architecture a practical 2026 guide to choose a cloud platform based on business fit rather than vendor momentum. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects Azure vs AWS SoCal enterprise 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "Azure vs AWS SoCal enterprise 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "SoCal cloud architecture",
+          "score": 0
+        },
+        {
+          "keyword": "cloud platform selection 2026",
+          "score": 0
+        },
+        {
+          "keyword": "enterprise cloud development",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Azure vs AWS for SoCal Enterprises in 2026",
+      "metaDescription": "Compare Azure vs AWS for SoCal enterprises in 2026 across architecture, security, integrations, cost, compliance, data, and software delivery needs.",
+      "metaKeywords": "Azure vs AWS SoCal enterprise 2026, Azure vs AWS enterprise, SoCal cloud architecture, cloud platform selection 2026, enterprise cloud development"
+    }
+  },
+  {
+    "key": "2026-06-10-persona-c",
+    "date": "2026-06-10T09:00:00-07:00",
+    "week": "W18",
+    "phase": "Conversion optimization",
+    "persona": "C",
+    "category": "marketing",
+    "title": "How to Fix Duplicate Content Before It Hurts OC SEO",
+    "slug": "fix-duplicate-content-oc-seo-2026",
+    "focus": "fix duplicate content OC SEO 2026",
+    "metaTitle": "Fix Duplicate Content for OC SEO in 2026",
+    "metaDescription": "Learn how OC businesses can find and fix duplicate content in 2026 with canonical tags, internal linking, redirects, page consolidation, and technical SEO QA.",
+    "related": [
+      "duplicate content SEO",
+      "canonical tags OC business",
+      "technical SEO duplicate pages",
+      "content consolidation SEO"
+    ],
+    "audience": "Orange County marketers, business owners, and SEO managers",
+    "promise": "make important service pages easier for search engines and customers to understand",
+    "pain": "multiple pages competing for the same intent, copied service text, parameter URLs, old landing pages, and inconsistent canonicals",
+    "action": "audit duplicate templates, consolidate overlapping pages, clean internal links, and use canonicals only where they match the strategy",
+    "internal": [
+      [
+        "Technical SEO services",
+        "https://technijian.com/technical-seo/"
+      ],
+      [
+        "SEO services",
+        "https://technijian.com/seo-services/"
+      ],
+      [
+        "Content marketing",
+        "https://technijian.com/content-marketing/"
+      ]
+    ],
+    "external": [
+      [
+        "Google duplicate URLs guidance",
+        "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls"
+      ],
+      [
+        "Google canonicalization guidance",
+        "https://developers.google.com/search/docs/crawling-indexing/canonicalization"
+      ]
+    ],
+    "categoryId": 4616,
+    "categoryName": "Digital Marketing",
+    "tagIds": [
+      4375,
+      4134,
+      4573,
+      4133,
+      4381,
+      4839
+    ],
+    "tags": [
+      "SEO audit",
+      "SEO audit services",
+      "Technical SEO",
+      "technical SEO Orange County",
+      "affordable SEO",
+      "AI SEO services Orange County"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\fix-duplicate-content-oc-seo-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\fix-duplicate-content-oc-seo-2026.html",
+    "excerpt": "How to Fix Duplicate Content Before It Hurts OC SEO gives Orange County marketers, business owners, and SEO managers a practical 2026 guide to make important service pages easier for search engines and customers to understand. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects fix duplicate content OC SEO 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "fix duplicate content OC SEO 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "canonical tags OC business",
+          "score": 0
+        },
+        {
+          "keyword": "technical SEO duplicate pages",
+          "score": 0
+        },
+        {
+          "keyword": "content consolidation SEO",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Fix Duplicate Content for OC SEO in 2026",
+      "metaDescription": "Learn how OC businesses can find and fix duplicate content in 2026 with canonical tags, internal linking, redirects, page consolidation, and technical SEO QA.",
+      "metaKeywords": "fix duplicate content OC SEO 2026, duplicate content SEO, canonical tags OC business, technical SEO duplicate pages, content consolidation SEO"
+    }
+  },
+  {
+    "key": "2026-06-11-persona-d",
+    "date": "2026-06-11T09:00:00-07:00",
+    "week": "W18",
+    "phase": "Conversion optimization",
+    "persona": "D",
+    "category": "ai",
+    "title": "Gemini for Business: Practical Use Cases for Orange County Teams in 2026",
+    "slug": "gemini-business-use-cases-orange-county-2026",
+    "focus": "Gemini business use cases Orange County 2026",
+    "metaTitle": "Gemini Business Use Cases for OC Teams 2026",
+    "metaDescription": "Explore practical Gemini business use cases for Orange County teams in 2026, including research, documents, customer workflows, operations, and governance.",
+    "related": [
+      "Gemini for business",
+      "AI use cases Orange County",
+      "Google Workspace AI adoption",
+      "AI productivity workflows"
+    ],
+    "audience": "executives, department heads, and operations teams exploring Google AI tools",
+    "promise": "turn Gemini from a curiosity into a governed workflow improvement tool",
+    "pain": "AI experimentation without approved use cases, data rules, training, or measurable business outcomes",
+    "action": "start with low-risk workflows, document the baseline, train users, and review accuracy and privacy before scaling",
+    "internal": [
+      [
+        "AI consulting services",
+        "https://technijian.com/ai-consulting/"
+      ],
+      [
+        "AI automation services",
+        "https://technijian.com/ai-automation/"
+      ],
+      [
+        "AI strategy consulting",
+        "https://technijian.com/ai-strategy-consulting/"
+      ]
+    ],
+    "external": [
+      [
+        "Google Workspace Gemini overview",
+        "https://workspace.google.com/solutions/ai/"
+      ],
+      [
+        "NIST AI Risk Management Framework",
+        "https://www.nist.gov/itl/ai-risk-management-framework"
+      ]
+    ],
+    "categoryId": 4541,
+    "categoryName": "AI",
+    "tagIds": [
+      4634,
+      4586,
+      4723,
+      1464,
+      4673,
+      4747
+    ],
+    "tags": [
+      "AI strategy for enterprises",
+      "Enterprise AI adoption 2026",
+      "enterprise AI adoption",
+      "enterprise AI",
+      "ChatGPT Enterprise Security",
+      "AI adoption"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\gemini-business-use-cases-orange-county-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\gemini-business-use-cases-orange-county-2026.html",
+    "excerpt": "Gemini for Business: Practical Use Cases for Orange County Teams in 2026 gives executives, department heads, and operations teams exploring Google AI tools a practical 2026 guide to turn Gemini from a curiosity into a governed workflow improvement tool. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects Gemini business use cases Orange County 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "Gemini business use cases Orange County 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "AI use cases Orange County",
+          "score": 0
+        },
+        {
+          "keyword": "Google Workspace AI adoption",
+          "score": 0
+        },
+        {
+          "keyword": "AI productivity workflows",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Gemini Business Use Cases for OC Teams 2026",
+      "metaDescription": "Explore practical Gemini business use cases for Orange County teams in 2026, including research, documents, customer workflows, operations, and governance.",
+      "metaKeywords": "Gemini business use cases Orange County 2026, Gemini for business, AI use cases Orange County, Google Workspace AI adoption, AI productivity workflows"
+    }
+  },
+  {
+    "key": "2026-06-12-friday-news",
+    "date": "2026-06-12T09:00:00-07:00",
+    "week": "W18",
+    "phase": "Friday SEO news",
+    "persona": "C",
+    "category": "marketing",
+    "title": "Google AI Mode and AI Overviews: What OC Businesses Should Change in SEO Now",
+    "slug": "google-ai-mode-ai-overviews-oc-seo-2026",
+    "focus": "Google AI Mode OC SEO 2026",
+    "metaTitle": "Google AI Mode OC SEO 2026 | AI Search Guide",
+    "metaDescription": "What OC businesses should change in SEO as Google AI Mode and AI Overviews reshape discovery, clicks, content quality, entities, and conversion paths.",
+    "related": [
+      "Google AI Mode SEO",
+      "AI Overviews optimization",
+      "OC AI search SEO",
+      "answer engine optimization"
+    ],
+    "audience": "Orange County business owners and SEO teams watching AI search changes",
+    "promise": "adapt content and conversion strategy for AI-shaped discovery without abandoning fundamentals",
+    "pain": "traffic uncertainty, fewer simple clicks, unclear source selection, and content that answers too little too late",
+    "action": "strengthen helpful pages, entity clarity, structured data, author proof, internal links, FAQs, and conversion paths",
+    "internal": [
+      [
+        "Answer engine optimization",
+        "https://technijian.com/answer-engine-optimization/"
+      ],
+      [
+        "SEO services",
+        "https://technijian.com/seo-services/"
+      ],
+      [
+        "Technical SEO services",
+        "https://technijian.com/technical-seo/"
+      ]
+    ],
+    "external": [
+      [
+        "Google AI Mode Search update",
+        "https://blog.google/products-and-platforms/products/search/google-search-ai-mode-update/"
+      ],
+      [
+        "Google Search AI Overviews and AI Mode PDF",
+        "https://search.google/pdf/google-about-AI-overviews-AI-Mode.pdf"
+      ]
+    ],
+    "categoryId": 4616,
+    "categoryName": "Digital Marketing",
+    "tagIds": [
+      4375,
+      4134,
+      4573,
+      4133,
+      4381,
+      4839
+    ],
+    "tags": [
+      "SEO audit",
+      "SEO audit services",
+      "Technical SEO",
+      "technical SEO Orange County",
+      "affordable SEO",
+      "AI SEO services Orange County"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\google-ai-mode-ai-overviews-oc-seo-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\google-ai-mode-ai-overviews-oc-seo-2026.html",
+    "excerpt": "Google AI Mode and AI Overviews: What OC Businesses Should Change in SEO Now gives Orange County business owners and SEO teams watching AI search changes a practical 2026 guide to adapt content and conversion strategy for AI-shaped discovery without abandoning fundamentals. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects Google AI Mode OC SEO 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "Google AI Mode OC SEO 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "AI Overviews optimization",
+          "score": 0
+        },
+        {
+          "keyword": "OC AI search SEO",
+          "score": 0
+        },
+        {
+          "keyword": "answer engine optimization",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Google AI Mode OC SEO 2026 | AI Search Guide",
+      "metaDescription": "What OC businesses should change in SEO as Google AI Mode and AI Overviews reshape discovery, clicks, content quality, entities, and conversion paths.",
+      "metaKeywords": "Google AI Mode OC SEO 2026, Google AI Mode SEO, AI Overviews optimization, OC AI search SEO, answer engine optimization"
+    }
+  },
+  {
+    "key": "2026-06-15-persona-a",
+    "date": "2026-06-15T09:00:00-07:00",
+    "week": "W19",
+    "phase": "Topical authority expansion content",
+    "persona": "A",
+    "category": "it",
+    "title": "Downtime Costs OC Businesses $10K+ Per Hour: How to Reduce IT Risk",
+    "slug": "downtime-costs-oc-businesses-it-risk-2026",
+    "focus": "downtime costs OC businesses 2026",
+    "metaTitle": "Downtime Costs OC Businesses 2026 | IT Risk Guide",
+    "metaDescription": "Learn how OC businesses can reduce downtime risk in 2026 with monitoring, backups, disaster recovery, vendor planning, and managed IT response.",
+    "related": [
+      "IT downtime Orange County",
+      "business continuity IT support",
+      "disaster recovery planning OC",
+      "managed IT uptime"
+    ],
+    "audience": "Orange County executives and office managers who depend on reliable systems",
+    "promise": "reduce the operational and revenue impact of avoidable IT interruptions",
+    "pain": "unmonitored systems, untested backups, vendor confusion, single points of failure, and slow escalation during outages",
+    "action": "map critical systems, assign recovery owners, monitor devices, test restores, and document vendor escalation steps",
+    "internal": [
+      [
+        "Managed IT services",
+        "https://technijian.com/managed-it-services/"
+      ],
+      [
+        "IT disaster recovery",
+        "https://technijian.com/disaster-recovery/"
+      ],
+      [
+        "Business IT support Orange County",
+        "https://technijian.com/business-it-support-orange-county/"
+      ]
+    ],
+    "external": [
+      [
+        "Ready.gov business impact analysis",
+        "https://www.ready.gov/business-impact-analysis"
+      ],
+      [
+        "CISA ransomware guidance",
+        "https://www.cisa.gov/stopransomware"
+      ]
+    ],
+    "categoryId": 311,
+    "categoryName": "Information Technology",
+    "tagIds": [
+      4013,
+      2188,
+      1953,
+      3236,
+      4711,
+      4992
+    ],
+    "tags": [
+      "Advanced Threat Detection",
+      "Advanced threat protection",
+      "Security Audit",
+      "Secure Software Development",
+      "Cybersecurity for Enterprises",
+      "2026 Compliance"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\downtime-costs-oc-businesses-it-risk-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\downtime-costs-oc-businesses-it-risk-2026.html",
+    "excerpt": "Downtime Costs OC Businesses $10K+ Per Hour: How to Reduce IT Risk gives Orange County executives and office managers who depend on reliable systems a practical 2026 guide to reduce the operational and revenue impact of avoidable IT interruptions. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects downtime costs OC businesses 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "downtime costs OC businesses 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "business continuity IT support",
+          "score": 0
+        },
+        {
+          "keyword": "disaster recovery planning OC",
+          "score": 0
+        },
+        {
+          "keyword": "managed IT uptime",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Downtime Costs OC Businesses 2026 | IT Risk Guide",
+      "metaDescription": "Learn how OC businesses can reduce downtime risk in 2026 with monitoring, backups, disaster recovery, vendor planning, and managed IT response.",
+      "metaKeywords": "downtime costs OC businesses 2026, IT downtime Orange County, business continuity IT support, disaster recovery planning OC, managed IT uptime"
+    }
+  },
+  {
+    "key": "2026-06-16-persona-b",
+    "date": "2026-06-16T09:00:00-07:00",
+    "week": "W19",
+    "phase": "Topical authority expansion content",
+    "persona": "B",
+    "category": "software",
+    "title": "AI Agents for Supply Chain: 2026 Automation Guide for SoCal Businesses",
+    "slug": "ai-agents-supply-chain-socal-2026",
+    "focus": "AI agents supply chain 2026",
+    "metaTitle": "AI Agents for Supply Chain in 2026 | SoCal Guide",
+    "metaDescription": "Learn how SoCal businesses can use AI agents for supply chain workflows in 2026, from exception handling to forecasting, dashboards, and governance.",
+    "related": [
+      "supply chain AI agents",
+      "AI workflow automation logistics",
+      "custom supply chain software",
+      "agentic automation 2026"
+    ],
+    "audience": "logistics, manufacturing, distribution, and operations leaders",
+    "promise": "use AI agents to reduce manual follow-up and improve exception visibility",
+    "pain": "spreadsheet handoffs, late updates, disconnected systems, unclear alerts, and staff chasing routine status questions",
+    "action": "start with bounded agent workflows for exception triage, document review, alerts, reporting, and human approval",
+    "internal": [
+      [
+        "AI-native software development",
+        "https://technijian.com/ai-native-software-development/"
+      ],
+      [
+        "Custom software development",
+        "https://technijian.com/custom-software-development/"
+      ],
+      [
+        "AI automation services",
+        "https://technijian.com/ai-automation/"
+      ]
+    ],
+    "external": [
+      [
+        "NIST AI Risk Management Framework",
+        "https://www.nist.gov/itl/ai-risk-management-framework"
+      ]
+    ],
+    "categoryId": 578,
+    "categoryName": "custom software development",
+    "tagIds": [
+      4993,
+      4997,
+      2644,
+      3236,
+      579,
+      5027
+    ],
+    "tags": [
+      "Technical Debt",
+      "Technical Debt Assessment",
+      "Technical Debt Reduction",
+      "Secure Software Development",
+      "custom software development",
+      "Orange County Software Development"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\ai-agents-supply-chain-socal-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\ai-agents-supply-chain-socal-2026.html",
+    "excerpt": "AI Agents for Supply Chain: 2026 Automation Guide for SoCal Businesses gives logistics, manufacturing, distribution, and operations leaders a practical 2026 guide to use AI agents to reduce manual follow-up and improve exception visibility. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects AI agents supply chain 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "AI agents supply chain 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "AI workflow automation logistics",
+          "score": 0
+        },
+        {
+          "keyword": "custom supply chain software",
+          "score": 0
+        },
+        {
+          "keyword": "agentic automation 2026",
+          "score": 0
+        }
+      ],
+      "metaTitle": "AI Agents for Supply Chain in 2026 | SoCal Guide",
+      "metaDescription": "Learn how SoCal businesses can use AI agents for supply chain workflows in 2026, from exception handling to forecasting, dashboards, and governance.",
+      "metaKeywords": "AI agents supply chain 2026, supply chain AI agents, AI workflow automation logistics, custom supply chain software, agentic automation 2026"
+    }
+  },
+  {
+    "key": "2026-06-17-persona-c",
+    "date": "2026-06-17T09:00:00-07:00",
+    "week": "W19",
+    "phase": "Topical authority expansion content",
+    "persona": "C",
+    "category": "marketing",
+    "title": "SEO for OC HVAC Companies: How to Win Local Service Searches in 2026",
+    "slug": "seo-oc-hvac-companies-2026",
+    "focus": "SEO for OC HVAC companies 2026",
+    "metaTitle": "SEO for OC HVAC Companies 2026 | Local Search Guide",
+    "metaDescription": "A practical SEO guide for OC HVAC companies in 2026 covering service pages, Google Business Profile, reviews, local content, schema, and lead quality.",
+    "related": [
+      "HVAC SEO Orange County",
+      "local SEO HVAC contractors",
+      "Google Business Profile HVAC",
+      "HVAC lead generation SEO"
+    ],
+    "audience": "Orange County HVAC owners, marketers, and service managers",
+    "promise": "turn local search visibility into qualified calls and booked service appointments",
+    "pain": "thin service pages, weak city targeting, inconsistent reviews, slow mobile pages, and poor conversion tracking",
+    "action": "build service-area pages, optimize Google Business Profile, improve reviews, add FAQs, and measure booked revenue not just traffic",
+    "internal": [
+      [
+        "Local SEO services",
+        "https://technijian.com/local-seo/"
+      ],
+      [
+        "SEO services",
+        "https://technijian.com/seo-services/"
+      ],
+      [
+        "Digital marketing services",
+        "https://technijian.com/digital-marketing/"
+      ]
+    ],
+    "external": [
+      [
+        "Google Business Profile guidelines",
+        "https://support.google.com/business/answer/3038177"
+      ],
+      [
+        "Google local ranking guidance",
+        "https://support.google.com/business/answer/7091"
+      ]
+    ],
+    "categoryId": 4616,
+    "categoryName": "Digital Marketing",
+    "tagIds": [
+      4375,
+      4134,
+      4573,
+      4133,
+      4381,
+      4839
+    ],
+    "tags": [
+      "SEO audit",
+      "SEO audit services",
+      "Technical SEO",
+      "technical SEO Orange County",
+      "affordable SEO",
+      "AI SEO services Orange County"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\seo-oc-hvac-companies-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\seo-oc-hvac-companies-2026.html",
+    "excerpt": "SEO for OC HVAC Companies: How to Win Local Service Searches in 2026 gives Orange County HVAC owners, marketers, and service managers a practical 2026 guide to turn local search visibility into qualified calls and booked service appointments. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects SEO for OC HVAC companies 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "SEO for OC HVAC companies 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "local SEO HVAC contractors",
+          "score": 0
+        },
+        {
+          "keyword": "Google Business Profile HVAC",
+          "score": 0
+        },
+        {
+          "keyword": "HVAC lead generation SEO",
+          "score": 0
+        }
+      ],
+      "metaTitle": "SEO for OC HVAC Companies 2026 | Local Search Guide",
+      "metaDescription": "A practical SEO guide for OC HVAC companies in 2026 covering service pages, Google Business Profile, reviews, local content, schema, and lead quality.",
+      "metaKeywords": "SEO for OC HVAC companies 2026, HVAC SEO Orange County, local SEO HVAC contractors, Google Business Profile HVAC, HVAC lead generation SEO"
+    }
+  },
+  {
+    "key": "2026-06-18-persona-d",
+    "date": "2026-06-18T09:00:00-07:00",
+    "week": "W19",
+    "phase": "Topical authority expansion content",
+    "persona": "D",
+    "category": "ai",
+    "title": "AI Predictive Maintenance for Orange County Manufacturers and Facilities",
+    "slug": "ai-predictive-maintenance-orange-county-2026",
+    "focus": "AI predictive maintenance Orange County 2026",
+    "metaTitle": "AI Predictive Maintenance Orange County 2026",
+    "metaDescription": "Learn how Orange County manufacturers and facilities can use AI predictive maintenance in 2026 to reduce downtime, improve asset reliability, and plan service.",
+    "related": [
+      "predictive maintenance AI",
+      "manufacturing AI Orange County",
+      "facility maintenance analytics",
+      "AI operations automation"
+    ],
+    "audience": "manufacturing, facilities, operations, and asset management leaders",
+    "promise": "detect maintenance risk earlier and plan service before failures disrupt operations",
+    "pain": "reactive maintenance, scattered sensor data, manual inspections, unexpected failures, and unclear asset history",
+    "action": "connect asset data, define failure signals, pilot a narrow use case, validate alerts, and keep humans in approval loops",
+    "internal": [
+      [
+        "AI consulting services",
+        "https://technijian.com/ai-consulting/"
+      ],
+      [
+        "AI automation services",
+        "https://technijian.com/ai-automation/"
+      ],
+      [
+        "Custom software development",
+        "https://technijian.com/custom-software-development/"
+      ]
+    ],
+    "external": [
+      [
+        "NIST AI Risk Management Framework",
+        "https://www.nist.gov/itl/ai-risk-management-framework"
+      ]
+    ],
+    "categoryId": 4541,
+    "categoryName": "AI",
+    "tagIds": [
+      4634,
+      4586,
+      4723,
+      1464,
+      4673,
+      4747
+    ],
+    "tags": [
+      "AI strategy for enterprises",
+      "Enterprise AI adoption 2026",
+      "enterprise AI adoption",
+      "enterprise AI",
+      "ChatGPT Enterprise Security",
+      "AI adoption"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\ai-predictive-maintenance-orange-county-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\ai-predictive-maintenance-orange-county-2026.html",
+    "excerpt": "AI Predictive Maintenance for Orange County Manufacturers and Facilities gives manufacturing, facilities, operations, and asset management leaders a practical 2026 guide to detect maintenance risk earlier and plan service before failures disrupt operations. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects AI predictive maintenance Orange County 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "AI predictive maintenance Orange County 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "manufacturing AI Orange County",
+          "score": 0
+        },
+        {
+          "keyword": "facility maintenance analytics",
+          "score": 0
+        },
+        {
+          "keyword": "AI operations automation",
+          "score": 0
+        }
+      ],
+      "metaTitle": "AI Predictive Maintenance Orange County 2026",
+      "metaDescription": "Learn how Orange County manufacturers and facilities can use AI predictive maintenance in 2026 to reduce downtime, improve asset reliability, and plan service.",
+      "metaKeywords": "AI predictive maintenance Orange County 2026, predictive maintenance AI, manufacturing AI Orange County, facility maintenance analytics, AI operations automation"
+    }
+  },
+  {
+    "key": "2026-06-19-friday-news",
+    "date": "2026-06-19T09:00:00-07:00",
+    "week": "W19",
+    "phase": "Friday cybersecurity news",
+    "persona": "A",
+    "category": "cyber",
+    "title": "CISA Ransomware Guidance: What OC Small Businesses Should Review in 2026",
+    "slug": "cisa-ransomware-guidance-oc-small-businesses-2026",
+    "focus": "CISA ransomware guidance OC businesses 2026",
+    "metaTitle": "CISA Ransomware Guidance for OC Businesses 2026",
+    "metaDescription": "What Orange County small businesses should review from CISA ransomware guidance in 2026, including backups, MFA, patching, response, and reporting.",
+    "related": [
+      "ransomware guidance small business",
+      "OC ransomware readiness",
+      "CISA cyber guidance",
+      "small business cybersecurity checklist"
+    ],
+    "audience": "small and mid-sized Orange County business owners",
+    "promise": "turn federal ransomware guidance into a practical local business checklist",
+    "pain": "ransomware readiness that exists in theory but not in tested backups, MFA, response roles, or vendor escalation",
+    "action": "review backups, MFA, patching, endpoint security, incident response contacts, and recovery priorities before an event",
+    "internal": [
+      [
+        "Cybersecurity services",
+        "https://technijian.com/cybersecurity-services/"
+      ],
+      [
+        "Managed IT services",
+        "https://technijian.com/managed-it-services/"
+      ],
+      [
+        "IT disaster recovery",
+        "https://technijian.com/disaster-recovery/"
+      ]
+    ],
+    "external": [
+      [
+        "CISA Stop Ransomware",
+        "https://www.cisa.gov/stopransomware"
+      ],
+      [
+        "CISA cyber guidance for small businesses",
+        "https://www.cisa.gov/cyber-guidance-small-businesses"
+      ]
+    ],
+    "categoryId": 326,
+    "categoryName": "Cyber Security",
+    "tagIds": [
+      4013,
+      2188,
+      1953,
+      3236,
+      4711,
+      4992
+    ],
+    "tags": [
+      "Advanced Threat Detection",
+      "Advanced threat protection",
+      "Security Audit",
+      "Secure Software Development",
+      "Cybersecurity for Enterprises",
+      "2026 Compliance"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\cisa-ransomware-guidance-oc-small-businesses-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\cisa-ransomware-guidance-oc-small-businesses-2026.html",
+    "excerpt": "CISA Ransomware Guidance: What OC Small Businesses Should Review in 2026 gives small and mid-sized Orange County business owners a practical 2026 guide to turn federal ransomware guidance into a practical local business checklist. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects CISA ransomware guidance OC businesses 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "CISA ransomware guidance OC businesses 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "OC ransomware readiness",
+          "score": 0
+        },
+        {
+          "keyword": "CISA cyber guidance",
+          "score": 0
+        },
+        {
+          "keyword": "small business cybersecurity checklist",
+          "score": 0
+        }
+      ],
+      "metaTitle": "CISA Ransomware Guidance for OC Businesses 2026",
+      "metaDescription": "What Orange County small businesses should review from CISA ransomware guidance in 2026, including backups, MFA, patching, response, and reporting.",
+      "metaKeywords": "CISA ransomware guidance OC businesses 2026, ransomware guidance small business, OC ransomware readiness, CISA cyber guidance, small business cybersecurity checklist"
+    }
+  },
+  {
+    "key": "2026-06-22-persona-a",
+    "date": "2026-06-22T09:00:00-07:00",
+    "week": "W20",
+    "phase": "High-quality backlink partnerships",
+    "persona": "A",
+    "category": "it",
+    "title": "PCI Compliance for Orange County Retailers: IT Controls That Protect Payments",
+    "slug": "pci-compliance-orange-county-retailers-2026",
+    "focus": "PCI compliance Orange County retailers 2026",
+    "metaTitle": "PCI Compliance for OC Retailers 2026 | IT Controls",
+    "metaDescription": "Learn how Orange County retailers can support PCI compliance in 2026 with network segmentation, access control, monitoring, vendors, and secure payment workflows.",
+    "related": [
+      "PCI compliance retailers",
+      "payment security Orange County",
+      "retail IT compliance",
+      "secure payment systems"
+    ],
+    "audience": "retail owners, finance managers, and operations leaders handling payment workflows",
+    "promise": "protect payment systems and reduce compliance risk with practical IT controls",
+    "pain": "unsegmented networks, shared credentials, old POS systems, vendor access, weak logging, and unclear responsibility",
+    "action": "document payment flows, limit access, segment networks, patch systems, review vendors, and keep evidence organized",
+    "internal": [
+      [
+        "Compliance IT support Orange County",
+        "https://technijian.com/compliance-it-support-orange-county/"
+      ],
+      [
+        "Cybersecurity services",
+        "https://technijian.com/cybersecurity-services/"
+      ],
+      [
+        "Managed IT services",
+        "https://technijian.com/managed-it-services/"
+      ]
+    ],
+    "external": [
+      [
+        "PCI Security Standards Council",
+        "https://www.pcisecuritystandards.org/standards/"
+      ]
+    ],
+    "categoryId": 311,
+    "categoryName": "Information Technology",
+    "tagIds": [
+      4013,
+      2188,
+      1953,
+      3236,
+      4711,
+      4992
+    ],
+    "tags": [
+      "Advanced Threat Detection",
+      "Advanced threat protection",
+      "Security Audit",
+      "Secure Software Development",
+      "Cybersecurity for Enterprises",
+      "2026 Compliance"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\pci-compliance-orange-county-retailers-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\pci-compliance-orange-county-retailers-2026.html",
+    "excerpt": "PCI Compliance for Orange County Retailers: IT Controls That Protect Payments gives retail owners, finance managers, and operations leaders handling payment workflows a practical 2026 guide to protect payment systems and reduce compliance risk with practical IT controls. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects PCI compliance Orange County retailers 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "PCI compliance Orange County retailers 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "payment security Orange County",
+          "score": 0
+        },
+        {
+          "keyword": "retail IT compliance",
+          "score": 0
+        },
+        {
+          "keyword": "secure payment systems",
+          "score": 0
+        }
+      ],
+      "metaTitle": "PCI Compliance for OC Retailers 2026 | IT Controls",
+      "metaDescription": "Learn how Orange County retailers can support PCI compliance in 2026 with network segmentation, access control, monitoring, vendors, and secure payment workflows.",
+      "metaKeywords": "PCI compliance Orange County retailers 2026, PCI compliance retailers, payment security Orange County, retail IT compliance, secure payment systems"
+    }
+  },
+  {
+    "key": "2026-06-23-persona-b",
+    "date": "2026-06-23T09:00:00-07:00",
+    "week": "W20",
+    "phase": "High-quality backlink partnerships",
+    "persona": "B",
+    "category": "software",
+    "title": "Real-Time Dashboard Development in 2026: Metrics Leaders Actually Need",
+    "slug": "real-time-dashboard-development-2026",
+    "focus": "real-time dashboard development 2026",
+    "metaTitle": "Real-Time Dashboard Development 2026 | Metrics Guide",
+    "metaDescription": "Build real-time dashboards in 2026 around the metrics leaders actually need: revenue, operations, service, risk, quality, and decision speed.",
+    "related": [
+      "custom dashboard development",
+      "real-time business intelligence",
+      "operations dashboard 2026",
+      "Power BI dashboard strategy"
+    ],
+    "audience": "executives, operations leaders, and product teams planning analytics tools",
+    "promise": "turn scattered operational data into decisions leaders can trust",
+    "pain": "dashboards that look impressive but do not answer business questions, update too slowly, or lack ownership",
+    "action": "define decision use cases first, connect trusted data, set refresh rules, and design dashboards around action",
+    "internal": [
+      [
+        "Custom software development",
+        "https://technijian.com/custom-software-development/"
+      ],
+      [
+        "Business intelligence consulting",
+        "https://technijian.com/business-intelligence/"
+      ],
+      [
+        "AI-native software development",
+        "https://technijian.com/ai-native-software-development/"
+      ]
+    ],
+    "external": [
+      [
+        "Microsoft Power BI guidance",
+        "https://learn.microsoft.com/en-us/power-bi/"
+      ]
+    ],
+    "categoryId": 578,
+    "categoryName": "custom software development",
+    "tagIds": [
+      4993,
+      4997,
+      2644,
+      3236,
+      579,
+      5027
+    ],
+    "tags": [
+      "Technical Debt",
+      "Technical Debt Assessment",
+      "Technical Debt Reduction",
+      "Secure Software Development",
+      "custom software development",
+      "Orange County Software Development"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\real-time-dashboard-development-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\real-time-dashboard-development-2026.html",
+    "excerpt": "Real-Time Dashboard Development in 2026: Metrics Leaders Actually Need gives executives, operations leaders, and product teams planning analytics tools a practical 2026 guide to turn scattered operational data into decisions leaders can trust. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects real-time dashboard development 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "real-time dashboard development 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "real-time business intelligence",
+          "score": 0
+        },
+        {
+          "keyword": "operations dashboard 2026",
+          "score": 0
+        },
+        {
+          "keyword": "Power BI dashboard strategy",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Real-Time Dashboard Development 2026 | Metrics Guide",
+      "metaDescription": "Build real-time dashboards in 2026 around the metrics leaders actually need: revenue, operations, service, risk, quality, and decision speed.",
+      "metaKeywords": "real-time dashboard development 2026, custom dashboard development, real-time business intelligence, operations dashboard 2026, Power BI dashboard strategy"
+    }
+  },
+  {
+    "key": "2026-06-24-persona-c",
+    "date": "2026-06-24T09:00:00-07:00",
+    "week": "W20",
+    "phase": "High-quality backlink partnerships",
+    "persona": "C",
+    "category": "marketing",
+    "title": "How ChatGPT Recommends Businesses: What OC Brands Need to Know",
+    "slug": "how-chatgpt-recommends-businesses-oc-brands-2026",
+    "focus": "how ChatGPT recommends businesses 2026",
+    "metaTitle": "How ChatGPT Recommends Businesses in 2026",
+    "metaDescription": "Learn what OC brands should know about how ChatGPT search and AI answers can surface businesses, sources, reviews, local context, and useful content.",
+    "related": [
+      "ChatGPT search business visibility",
+      "AI recommendations SEO",
+      "OC brand visibility ChatGPT",
+      "answer engine optimization"
+    ],
+    "audience": "Orange County brands, marketers, and local business owners",
+    "promise": "prepare brand content for AI-assisted discovery without guessing or gaming the system",
+    "pain": "unclear AI source selection, inconsistent local signals, weak review proof, and content that does not answer decision questions",
+    "action": "strengthen entity clarity, reviews, service pages, FAQs, citations, helpful content, and source-worthy pages",
+    "internal": [
+      [
+        "Answer engine optimization",
+        "https://technijian.com/answer-engine-optimization/"
+      ],
+      [
+        "SEO services",
+        "https://technijian.com/seo-services/"
+      ],
+      [
+        "Content marketing",
+        "https://technijian.com/content-marketing/"
+      ]
+    ],
+    "external": [
+      [
+        "ChatGPT Search help",
+        "https://help.openai.com/en/articles/9237897-chatgpt-search"
+      ],
+      [
+        "ChatGPT Search for Enterprise and Edu",
+        "https://help.openai.com/en/articles/10093903-chatgpt-search-for-enterprise-and-edu"
+      ]
+    ],
+    "categoryId": 4616,
+    "categoryName": "Digital Marketing",
+    "tagIds": [
+      4375,
+      4134,
+      4573,
+      4133,
+      4381,
+      4839
+    ],
+    "tags": [
+      "SEO audit",
+      "SEO audit services",
+      "Technical SEO",
+      "technical SEO Orange County",
+      "affordable SEO",
+      "AI SEO services Orange County"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\how-chatgpt-recommends-businesses-oc-brands-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\how-chatgpt-recommends-businesses-oc-brands-2026.html",
+    "excerpt": "How ChatGPT Recommends Businesses: What OC Brands Need to Know gives Orange County brands, marketers, and local business owners a practical 2026 guide to prepare brand content for AI-assisted discovery without guessing or gaming the system. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects how ChatGPT recommends businesses 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "how ChatGPT recommends businesses 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "AI recommendations SEO",
+          "score": 0
+        },
+        {
+          "keyword": "OC brand visibility ChatGPT",
+          "score": 0
+        },
+        {
+          "keyword": "answer engine optimization",
+          "score": 0
+        }
+      ],
+      "metaTitle": "How ChatGPT Recommends Businesses in 2026",
+      "metaDescription": "Learn what OC brands should know about how ChatGPT search and AI answers can surface businesses, sources, reviews, local context, and useful content.",
+      "metaKeywords": "how ChatGPT recommends businesses 2026, ChatGPT search business visibility, AI recommendations SEO, OC brand visibility ChatGPT, answer engine optimization"
+    }
+  },
+  {
+    "key": "2026-06-25-persona-d",
+    "date": "2026-06-25T09:00:00-07:00",
+    "week": "W20",
+    "phase": "High-quality backlink partnerships",
+    "persona": "D",
+    "category": "ai",
+    "title": "How to Choose an AI Consulting Partner in 2026: Orange County Buyer’s Guide",
+    "slug": "choose-ai-consulting-partner-orange-county-2026",
+    "focus": "choose AI consulting partner 2026",
+    "metaTitle": "Choose an AI Consulting Partner in 2026 | OC Guide",
+    "metaDescription": "A practical Orange County buyer’s guide for choosing an AI consulting partner in 2026, including strategy, governance, data, security, pilots, and ROI.",
+    "related": [
+      "AI consulting partner Orange County",
+      "AI consultant evaluation",
+      "enterprise AI partner",
+      "AI implementation partner"
+    ],
+    "audience": "executives and department leaders evaluating AI consulting firms",
+    "promise": "select an AI partner that can deliver measurable outcomes without creating unmanaged risk",
+    "pain": "AI vendors selling demos without workflow baselines, governance, security review, or implementation accountability",
+    "action": "evaluate strategy, data readiness, security, governance, pilot design, integration skill, and measurable ROI",
+    "internal": [
+      [
+        "AI consulting services",
+        "https://technijian.com/ai-consulting/"
+      ],
+      [
+        "AI automation services",
+        "https://technijian.com/ai-automation/"
+      ],
+      [
+        "Cybersecurity services",
+        "https://technijian.com/cybersecurity-services/"
+      ]
+    ],
+    "external": [
+      [
+        "NIST AI Risk Management Framework",
+        "https://www.nist.gov/itl/ai-risk-management-framework"
+      ]
+    ],
+    "categoryId": 4541,
+    "categoryName": "AI",
+    "tagIds": [
+      4634,
+      4586,
+      4723,
+      1464,
+      4673,
+      4747
+    ],
+    "tags": [
+      "AI strategy for enterprises",
+      "Enterprise AI adoption 2026",
+      "enterprise AI adoption",
+      "enterprise AI",
+      "ChatGPT Enterprise Security",
+      "AI adoption"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\choose-ai-consulting-partner-orange-county-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\choose-ai-consulting-partner-orange-county-2026.html",
+    "excerpt": "How to Choose an AI Consulting Partner in 2026: Orange County Buyer’s Guide gives executives and department leaders evaluating AI consulting firms a practical 2026 guide to select an AI partner that can deliver measurable outcomes without creating unmanaged risk. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects choose AI consulting partner 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "choose AI consulting partner 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "AI consultant evaluation",
+          "score": 0
+        },
+        {
+          "keyword": "enterprise AI partner",
+          "score": 0
+        },
+        {
+          "keyword": "AI implementation partner",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Choose an AI Consulting Partner in 2026 | OC Guide",
+      "metaDescription": "A practical Orange County buyer’s guide for choosing an AI consulting partner in 2026, including strategy, governance, data, security, pilots, and ROI.",
+      "metaKeywords": "choose AI consulting partner 2026, AI consulting partner Orange County, AI consultant evaluation, enterprise AI partner, AI implementation partner"
+    }
+  },
+  {
+    "key": "2026-06-26-friday-news",
+    "date": "2026-06-26T09:00:00-07:00",
+    "week": "W20",
+    "phase": "Friday AI governance news",
+    "persona": "D",
+    "category": "ai",
+    "title": "Microsoft 365 Copilot Governance: What Businesses Should Fix Before Rollout",
+    "slug": "microsoft-365-copilot-governance-before-rollout-2026",
+    "focus": "Microsoft 365 Copilot governance 2026",
+    "metaTitle": "Microsoft 365 Copilot Governance 2026 | Rollout Guide",
+    "metaDescription": "What businesses should fix before Microsoft 365 Copilot rollout in 2026, including permissions, SharePoint hygiene, Purview, labels, data, and training.",
+    "related": [
+      "Copilot governance 2026",
+      "Microsoft 365 AI security",
+      "Copilot data protection",
+      "enterprise Copilot readiness"
+    ],
+    "audience": "business leaders, IT admins, and security teams preparing Copilot rollout",
+    "promise": "reduce data exposure and adoption risk before employees start using Copilot broadly",
+    "pain": "overexposed SharePoint files, weak labels, inconsistent permissions, unclear user training, and no governance owner",
+    "action": "review data access, permissions, labels, retention, user groups, admin controls, and rollout training before launch",
+    "internal": [
+      [
+        "Microsoft Copilot consulting",
+        "https://technijian.com/microsoft-copilot-consulting/"
+      ],
+      [
+        "AI consulting services",
+        "https://technijian.com/ai-consulting/"
+      ],
+      [
+        "Cybersecurity services",
+        "https://technijian.com/cybersecurity-services/"
+      ]
+    ],
+    "external": [
+      [
+        "Microsoft Copilot security and governance",
+        "https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-control-system/security-governance"
+      ],
+      [
+        "Microsoft Copilot data and compliance readiness",
+        "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-minimum-requirements-data-compliance"
+      ]
+    ],
+    "categoryId": 4541,
+    "categoryName": "AI",
+    "tagIds": [
+      4634,
+      4586,
+      4723,
+      1464,
+      4673,
+      4747
+    ],
+    "tags": [
+      "AI strategy for enterprises",
+      "Enterprise AI adoption 2026",
+      "enterprise AI adoption",
+      "enterprise AI",
+      "ChatGPT Enterprise Security",
+      "AI adoption"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\microsoft-365-copilot-governance-before-rollout-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\microsoft-365-copilot-governance-before-rollout-2026.html",
+    "excerpt": "Microsoft 365 Copilot Governance: What Businesses Should Fix Before Rollout gives business leaders, IT admins, and security teams preparing Copilot rollout a practical 2026 guide to reduce data exposure and adoption risk before employees start using Copilot broadly. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects Microsoft 365 Copilot governance 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "Microsoft 365 Copilot governance 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "Microsoft 365 AI security",
+          "score": 0
+        },
+        {
+          "keyword": "Copilot data protection",
+          "score": 0
+        },
+        {
+          "keyword": "enterprise Copilot readiness",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Microsoft 365 Copilot Governance 2026 | Rollout Guide",
+      "metaDescription": "What businesses should fix before Microsoft 365 Copilot rollout in 2026, including permissions, SharePoint hygiene, Purview, labels, data, and training.",
+      "metaKeywords": "Microsoft 365 Copilot governance 2026, Copilot governance 2026, Microsoft 365 AI security, Copilot data protection, enterprise Copilot readiness"
+    }
+  },
+  {
+    "key": "2026-06-29-persona-a",
+    "date": "2026-06-29T09:00:00-07:00",
+    "week": "W21",
+    "phase": "Brand search optimization",
+    "persona": "A",
+    "category": "cyber",
+    "title": "Remote Work Security for OC Healthcare Teams: A 2026 Checklist",
+    "slug": "remote-work-security-oc-healthcare-2026",
+    "focus": "remote work security OC healthcare 2026",
+    "metaTitle": "Remote Work Security for OC Healthcare Teams 2026",
+    "metaDescription": "A 2026 remote work security checklist for OC healthcare teams covering MFA, devices, VPN, access controls, HIPAA, backups, and user training.",
+    "related": [
+      "remote healthcare security",
+      "HIPAA remote work controls",
+      "OC healthcare cybersecurity",
+      "secure remote access healthcare"
+    ],
+    "audience": "healthcare administrators and practice leaders managing hybrid teams",
+    "promise": "keep remote access productive without weakening patient data protection",
+    "pain": "personal devices, weak Wi-Fi, unmanaged remote access, shared files, and staff uncertainty about secure workflows",
+    "action": "standardize devices, require MFA, review access, train staff, protect cloud apps, and document remote-work procedures",
+    "internal": [
+      [
+        "HIPAA compliance support",
+        "https://technijian.com/hipaa-compliance/"
+      ],
+      [
+        "Cybersecurity services",
+        "https://technijian.com/cybersecurity-services/"
+      ],
+      [
+        "Managed IT services",
+        "https://technijian.com/managed-it-services/"
+      ]
+    ],
+    "external": [
+      [
+        "HHS HIPAA Security Rule guidance",
+        "https://www.hhs.gov/hipaa/for-professionals/security/index.html"
+      ],
+      [
+        "CISA telework guidance",
+        "https://www.cisa.gov/news-events/news/enterprise-vpn-security"
+      ]
+    ],
+    "categoryId": 326,
+    "categoryName": "Cyber Security",
+    "tagIds": [
+      4013,
+      2188,
+      1953,
+      3236,
+      4711,
+      4992
+    ],
+    "tags": [
+      "Advanced Threat Detection",
+      "Advanced threat protection",
+      "Security Audit",
+      "Secure Software Development",
+      "Cybersecurity for Enterprises",
+      "2026 Compliance"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\remote-work-security-oc-healthcare-2026.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\remote-work-security-oc-healthcare-2026.html",
+    "excerpt": "Remote Work Security for OC Healthcare Teams: A 2026 Checklist gives healthcare administrators and practice leaders managing hybrid teams a practical 2026 guide to keep remote access productive without weakening patient data protection. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects remote work security OC healthcare 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "remote work security OC healthcare 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "HIPAA remote work controls",
+          "score": 0
+        },
+        {
+          "keyword": "OC healthcare cybersecurity",
+          "score": 0
+        },
+        {
+          "keyword": "secure remote access healthcare",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Remote Work Security for OC Healthcare Teams 2026",
+      "metaDescription": "A 2026 remote work security checklist for OC healthcare teams covering MFA, devices, VPN, access controls, HIPAA, backups, and user training.",
+      "metaKeywords": "remote work security OC healthcare 2026, remote healthcare security, HIPAA remote work controls, OC healthcare cybersecurity, secure remote access healthcare"
+    }
+  },
+  {
+    "key": "2026-06-30-persona-b",
+    "date": "2026-06-30T09:00:00-07:00",
+    "week": "W21",
+    "phase": "Brand search optimization",
+    "persona": "B",
+    "category": "software",
+    "title": "How to Evaluate a Software Development Partner: 2026 Scorecard",
+    "slug": "evaluate-software-development-partner-2026-scorecard",
+    "focus": "evaluate software development partner 2026",
+    "metaTitle": "Evaluate a Software Development Partner in 2026",
+    "metaDescription": "Use this 2026 scorecard to evaluate a software development partner across architecture, QA, security, delivery, documentation, ownership, and ROI.",
+    "related": [
+      "software development partner scorecard",
+      "custom software vendor evaluation",
+      "software development due diligence",
+      "technology partner selection"
+    ],
+    "audience": "founders, executives, and product leaders comparing software development partners",
+    "promise": "choose a partner based on delivery quality, ownership, and long-term maintainability",
+    "pain": "vendors that overpromise, under-document, skip QA, hide technical debt, or leave the client without ownership",
+    "action": "score partners on architecture, code quality, security, process, communication, IP control, testing, and post-launch support",
+    "internal": [
+      [
+        "Custom software development",
+        "https://technijian.com/custom-software-development/"
+      ],
+      [
+        "Startup software development",
+        "https://technijian.com/startup-software-development/"
+      ],
+      [
+        "Secure software development",
+        "https://technijian.com/secure-software-development/"
+      ]
+    ],
+    "external": [
+      [
+        "OWASP secure coding practices",
+        "https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/"
+      ]
+    ],
+    "categoryId": 578,
+    "categoryName": "custom software development",
+    "tagIds": [
+      4993,
+      4997,
+      2644,
+      3236,
+      579,
+      5027
+    ],
+    "tags": [
+      "Technical Debt",
+      "Technical Debt Assessment",
+      "Technical Debt Reduction",
+      "Secure Software Development",
+      "custom software development",
+      "Orange County Software Development"
+    ],
+    "imageFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\featured-images\\evaluate-software-development-partner-2026-scorecard.png",
+    "contentFile": "C:\\Users\\Dell\\OneDrive - Technijian, Inc\\Technjijian-Seo-Team-work-main\\Technjijian-Seo-Team-work-main\\sdlc\\clients\\TECH\\technijian.com\\09_Content_Calendar\\technijian-june-2026\\posts\\evaluate-software-development-partner-2026-scorecard.html",
+    "excerpt": "How to Evaluate a Software Development Partner: 2026 Scorecard gives founders, executives, and product leaders comparing software development partners a practical 2026 guide to choose a partner based on delivery quality, ownership, and long-term maintainability. It explains why the issue matters, what warning signs to review, how to build a first-phase roadmap, and how to measure progress without turning the work into a vague technical exercise. The article connects evaluate software development partner 2026 to the June SEO plan, internal service pages, external guidance, and useful buyer questions. Readers will learn what to check first, what mistakes to avoid, and how to turn the topic into a scoped action plan with ownership, evidence, and follow-up review.",
+    "yoast": {
+      "focusKeyphrase": "evaluate software development partner 2026",
+      "relatedKeyphrases": [
+        {
+          "keyword": "custom software vendor evaluation",
+          "score": 0
+        },
+        {
+          "keyword": "software development due diligence",
+          "score": 0
+        },
+        {
+          "keyword": "technology partner selection",
+          "score": 0
+        }
+      ],
+      "metaTitle": "Evaluate a Software Development Partner in 2026",
+      "metaDescription": "Use this 2026 scorecard to evaluate a software development partner across architecture, QA, security, delivery, documentation, ownership, and ROI.",
+      "metaKeywords": "evaluate software development partner 2026, software development partner scorecard, custom software vendor evaluation, software development due diligence, technology partner selection"
+    }
+  }
+]
