@@ -228,3 +228,52 @@ WordPress verification:
 - `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-verification.json`
 
 All 17 new posts verified as `future` in WordPress with featured media, FAQs, FAQ schema, category, and six tags.
+
+## June 1, 2026 Update - ChatGPT Featured Image Replacement
+
+The user reported that the June scheduled-post images were not good and requested new images created in ChatGPT like the previous blog images.
+
+Action completed:
+
+- Created 17 new 1:1 ChatGPT-generated featured image backgrounds for the June 8-30 scheduled posts.
+- Added controlled topic/title overlays locally so the final images contain only the approved topic text.
+- Avoided persona labels and avoided Technijian text in the image artwork.
+- Saved full PNG versions in the June content package and Website Blogs archive.
+- Created optimized 1200x1200 JPEG upload copies for WordPress media processing.
+- Uploaded the optimized images to WordPress and updated the 17 scheduled posts to use the new featured media.
+
+New WordPress media IDs:
+
+- June 8: 50237
+- June 9: 50238
+- June 10: 50239
+- June 11: 50240
+- June 12: 50241
+- June 15: 50242
+- June 16: 50243
+- June 17: 50244
+- June 18: 50245
+- June 19: 50246
+- June 22: 50247
+- June 23: 50248
+- June 24: 50249
+- June 25: 50250
+- June 26: 50251
+- June 29: 50252
+- June 30: 50253
+
+Verification:
+
+- All 17 posts remain `future`.
+- All 17 posts still have 2,000+ visible words.
+- All 17 posts still have five FAQs and FAQPage schema.
+- All 17 posts still have one category and six tags.
+- Media verification confirms each replacement image is a 1200x1200 JPEG.
+
+Files saved:
+
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/featured-images/*.png`
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/featured-images-upload/*.jpg`
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-chatgpt-image-replacement.json`
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-image-upload-replacement-result.json`
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-image-media-verification.json`

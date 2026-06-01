@@ -26,7 +26,7 @@ June 1-5 was already scheduled in the previous Week 16-17 package. This package 
   - One selected category
   - Natural internal links
   - External authority links
-  - 1:1 featured image
+  - 1:1 ChatGPT-generated featured image
   - Hidden featured image settings
 
 ## Archive Location
@@ -40,6 +40,16 @@ Verification saved in:
 `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-verification.json`
 
 All 17 posts verified as `future` with featured media, one category, six tags, 2,000+ words, FAQs, and FAQPage schema.
+
+## Featured Image Replacement
+
+On June 1, 2026, the June 8-30 scheduled posts were updated with new ChatGPT-created 1:1 featured images. Final repo PNGs are saved in `featured-images/`, optimized 1200x1200 WordPress upload JPEGs are saved in `featured-images-upload/`, and the live posts now use media IDs 50237-50253.
+
+Image replacement logs:
+
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-chatgpt-image-replacement.json`
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-image-upload-replacement-result.json`
+- `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-image-media-verification.json`
 
 ## Transparency Note
 
