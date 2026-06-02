@@ -300,3 +300,29 @@ Reason it may not be visible yet:
 - The post is scheduled for June 2, 2026 at 9:00 AM Pacific time.
 - That is June 2, 2026 at 9:30 PM India time.
 - At the time of this check, the local India time was June 2, 2026 at 12:15 PM, so the scheduled publish time had not arrived yet.
+
+## June 2, 2026 Update - June 2 Blog Rescheduled Again
+
+The user requested that the June 2 scheduled post be added/scheduled again because it appeared missing.
+
+Action completed:
+
+- Reapplied the saved repo package content to the existing WordPress post instead of creating a duplicate slug.
+- WordPress post ID: `50067`
+- Blog title: `Why Offshore Development Turns Into Spaghetti Code and How to Avoid It`
+- Slug: `offshore-development-spaghetti-code-avoid-2026`
+- WordPress status after update: `future`
+- Scheduled date after update: `2026-06-02T09:00:00`
+- Scheduled GMT after update: `2026-06-02T16:00:00`
+- Featured media ID: `50066`
+- Category: one category, ID `578`
+- Tags: six tags
+- Body length: 2,156 visible words
+- FAQs: present
+- FAQPage schema: present
+
+Files saved:
+
+- `clients/TECH/technijian.com/09_Content_Calendar/technijian-weeks-2026-05-25-06-05/reschedule-june-02-post.cjs`
+- `clients/TECH/technijian.com/09_Content_Calendar/technijian-weeks-2026-05-25-06-05/june-02-reschedule-result.json`
+- `clients/TECH/technijian.com/Website Blogs/Week_16-17_May_25-Jun_05_2026_Blogs/june-02-reschedule-result.json`

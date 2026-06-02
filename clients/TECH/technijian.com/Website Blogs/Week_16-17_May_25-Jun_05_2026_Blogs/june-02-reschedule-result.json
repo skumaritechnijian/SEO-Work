@@ -1,0 +1,19 @@
+{
+  "action": "updated_existing_post",
+  "checkedAt": "2026-06-02T07:09:27.543Z",
+  "id": 50067,
+  "title": "Why Offshore Development Turns Into Spaghetti Code and How to Avoid It",
+  "slug": "offshore-development-spaghetti-code-avoid-2026",
+  "status": "future",
+  "date": "2026-06-02T09:00:00",
+  "dateGmt": "2026-06-02T16:00:00",
+  "link": "https://technijian.com/?p=50067",
+  "featuredMedia": 50066,
+  "categories": [
+    578
+  ],
+  "tagCount": 6,
+  "words": 2156,
+  "hasFaq": true,
+  "hasFaqSchema": true
+}
