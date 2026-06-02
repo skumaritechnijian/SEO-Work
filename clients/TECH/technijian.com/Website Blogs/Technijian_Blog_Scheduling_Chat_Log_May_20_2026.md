@@ -326,3 +326,34 @@ Files saved:
 - `clients/TECH/technijian.com/09_Content_Calendar/technijian-weeks-2026-05-25-06-05/reschedule-june-02-post.cjs`
 - `clients/TECH/technijian.com/09_Content_Calendar/technijian-weeks-2026-05-25-06-05/june-02-reschedule-result.json`
 - `clients/TECH/technijian.com/Website Blogs/Week_16-17_May_25-Jun_05_2026_Blogs/june-02-reschedule-result.json`
+
+## June 2, 2026 Update - Admin List Page 2 Confirmation
+
+The user shared a screenshot showing the WordPress admin scheduled-posts list on page 1 of 2 and could not find `Why Offshore Development Turns Into Spaghetti Code and How to Avoid It`.
+
+Checked the WordPress future-post list through the REST API:
+
+- Total scheduled/future posts: `21`
+- WordPress admin list page size in screenshot: `20`
+- June 2 post position by scheduled date descending: `21`
+- Therefore the June 2 post appears on scheduled-posts page `2`, not page `1`.
+- Browser find in the screenshot searched only the currently loaded page 1, so it returned `0/0`.
+
+Direct admin URLs:
+
+- Page 2 scheduled list: `https://technijian.com/wp-admin/edit.php?post_status=future&post_type=post&paged=2`
+- Direct edit URL: `https://technijian.com/wp-admin/post.php?post=50067&action=edit`
+
+The post was reapplied again at the user's request:
+
+- Post ID: `50067`
+- Status: `future`
+- Scheduled date: `2026-06-02T09:00:00`
+- Scheduled GMT: `2026-06-02T16:00:00`
+- Position: `21`
+- Admin page: `2`
+
+Additional proof saved:
+
+- `clients/TECH/technijian.com/09_Content_Calendar/technijian-weeks-2026-05-25-06-05/june-02-admin-position-check.json`
+- `clients/TECH/technijian.com/Website Blogs/Week_16-17_May_25-Jun_05_2026_Blogs/june-02-admin-position-check.json`
