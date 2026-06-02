@@ -277,3 +277,26 @@ Files saved:
 - `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-chatgpt-image-replacement.json`
 - `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-image-upload-replacement-result.json`
 - `clients/TECH/technijian.com/Website Blogs/June_2026_Blogs/june-2026-image-media-verification.json`
+
+## June 2, 2026 Update - June 2 Blog Visibility Check
+
+The user reported they could not find the June 2 blog.
+
+Checked repo and WordPress:
+
+- Repo package: `clients/TECH/technijian.com/Website Blogs/Week_16-17_May_25-Jun_05_2026_Content_Package.md`
+- Blog title: `Why Offshore Development Turns Into Spaghetti Code and How to Avoid It`
+- Slug: `offshore-development-spaghetti-code-avoid-2026`
+- WordPress post ID: `50067`
+- WordPress status: `future`
+- Scheduled date in WordPress: `2026-06-02T09:00:00`
+- Scheduled GMT: `2026-06-02T16:00:00`
+- Category count: one category
+- Tag count: six tags
+- Featured media ID: `50066`
+
+Reason it may not be visible yet:
+
+- The post is scheduled for June 2, 2026 at 9:00 AM Pacific time.
+- That is June 2, 2026 at 9:30 PM India time.
+- At the time of this check, the local India time was June 2, 2026 at 12:15 PM, so the scheduled publish time had not arrived yet.
